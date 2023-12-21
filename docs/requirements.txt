@@ -14,3 +14,5 @@ sentence_transformers
 strsimpy
 hdbscan
 language_tool_python
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+transformers>=4.36.0 # not directly required, pinned by Snyk to avoid a vulnerability
