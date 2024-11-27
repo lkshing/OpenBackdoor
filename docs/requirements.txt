@@ -14,3 +14,4 @@ sentence_transformers
 strsimpy
 hdbscan
 language_tool_python
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
